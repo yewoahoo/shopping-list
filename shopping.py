@@ -1,8 +1,6 @@
 #shopping list 
 shopping_list = []
 
-import json 
-
 
 #define name, when def name we have to add the reject section, and empty section that reqiures while true,if statements continue, return, print, so reject empty , reject numbers .isdidgit() 
 def get_name():
